@@ -1,0 +1,6 @@
+# Legacy PRO/ME-style plugin list example:
+ms0:/seplugins/screenflip.prx 1
+
+# ARK-5 normally manages plugins through SEPLUGINS/PLUGINS.TXT
+# Example ARK entry:
+# game, ms0:/seplugins/screenflip.prx, on
